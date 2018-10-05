@@ -62,6 +62,8 @@
 - ppurang/asynch
 - ReactivePlatform/Pragmatic-Scala
 - ReactivePlatform/Reactive-Design-Patterns
+- scalapb/ScalaPB
+- scalapb/scalapb-json4s
 - schrepfler/artemis
 - schrepfler/cas-tools
 - schrepfler/crdt-kit
